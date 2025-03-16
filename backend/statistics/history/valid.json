@@ -1,0 +1,202 @@
+{
+    "mhamed.elboukili@loreal.com": [
+        {
+            "timestamp": "2025-03-16 20:43:36",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:36",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:36",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "SMTP verification result: VALID (Email verified via SMTP)"
+        }
+    ],
+    "agence.marrakech@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:01",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:01",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:01",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:03",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:03",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:28",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ],
+    "agence.ourzazate@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:51",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:51",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:51",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:53",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:53",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:07",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ],
+    "agence.casacity@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:22:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:11",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:11",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:13",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:13",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:28",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ],
+    "recrutement.hertz-maroc@gbh.fr": [
+        {
+            "timestamp": "2025-03-16 21:22:32",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:32",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:32",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:34",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:34",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:58",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ],
+    "nreservation@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:23:02",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:02",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:02",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:05",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:05",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:19",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ],
+    "agence.oujda@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:23:23",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:23",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:23",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:25",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:25",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:39",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ],
+    "agence.agadir@gbh.fr": [
+        {
+            "timestamp": "2025-03-16 21:23:42",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:42",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:42",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:44",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:44",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:59",
+            "event": "Microsoft verification: Valid email - no rejection or error"
+        }
+    ]
+}

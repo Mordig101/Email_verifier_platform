@@ -1,0 +1,896 @@
+{
+    "admin@aui.ma": [
+        {
+            "timestamp": "2025-03-16 20:41:30",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:31",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:33",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:34",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "3j0sg9j56wej7s3e@aui.ma": [
+        {
+            "timestamp": "2025-03-16 20:41:31",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:32",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "joj9sflnloz76lvz@aui.ma": [
+        {
+            "timestamp": "2025-03-16 20:41:34",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:35",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@stoursvoyages.com": [
+        {
+            "timestamp": "2025-03-16 20:41:55",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:56",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:31",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:32",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "7pjlkliukbo00h7n@stoursvoyages.com": [
+        {
+            "timestamp": "2025-03-16 20:41:56",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:57",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "yu50wi089n2oilar@stoursvoyages.com": [
+        {
+            "timestamp": "2025-03-16 20:42:32",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:33",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@oberoihotels.com": [
+        {
+            "timestamp": "2025-03-16 20:42:35",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:36",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:11",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:13",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "828wlfvlyvej9w40@oberoihotels.com": [
+        {
+            "timestamp": "2025-03-16 20:42:36",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:38",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@hilton.com": [
+        {
+            "timestamp": "2025-03-16 20:42:52",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:53",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "x5i9oayg27xpjgd2@hilton.com": [
+        {
+            "timestamp": "2025-03-16 20:42:53",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:54",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@stregis.com": [
+        {
+            "timestamp": "2025-03-16 20:43:32",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:33",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "lzdc2iqac5cpyz9l@stregis.com": [
+        {
+            "timestamp": "2025-03-16 20:43:33",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:34",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "hasnaa.belalami@intelcia.com": [
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "v6f8gkmrw07wfg3g@oberoihotels.com": [
+        {
+            "timestamp": "2025-03-16 20:44:13",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:14",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "kenitra@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "agadir@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "meknes@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "oujda@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "tangier@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "casablanca@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "marrakesh@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "eljadida@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "mohammedia@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "fez@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "tetouan@acamorocco.org": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Login verification rate limited for acamorocco.org, waiting 0s"
+        }
+    ],
+    "admin@enzazaden.co.uk": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:18",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "8u7lgnu013ghrctv@enzazaden.co.uk": [
+        {
+            "timestamp": "2025-03-16 20:44:18",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:19",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-16 20:44:20",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:21",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "pvrip5k6vno322wy@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-16 20:44:21",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:22",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@enzazaden.com.tr": [
+        {
+            "timestamp": "2025-03-16 20:44:24",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:25",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "17glww3psuyfzhjp@enzazaden.com.tr": [
+        {
+            "timestamp": "2025-03-16 20:44:25",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:26",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@enzazaden.com": [
+        {
+            "timestamp": "2025-03-16 20:44:27",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:29",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "37iatfcwpar2sjij@enzazaden.com": [
+        {
+            "timestamp": "2025-03-16 20:44:29",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:29",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "iscae.rabat@groupeiscae.ma": [
+        {
+            "timestamp": "2025-03-16 20:44:51",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:52",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:52",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:52",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "admin@chumarrakech.ma": [
+        {
+            "timestamp": "2025-03-16 20:44:56",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:57",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "cge5t8mxx4kiptef@chumarrakech.ma": [
+        {
+            "timestamp": "2025-03-16 20:44:57",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:58",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@fmp.um5.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:00",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:01",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "7vn2bnq7r4k8tgpd@fmp.um5.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:01",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:02",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "admin@fmd.um5.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:03",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:04",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "szzmuq8zd97kd9br@fmd.um5.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:04",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:05",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "hasna.benkirane@xos.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:06",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "fatema.ettehamy@gdholdingsa.com": [
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "xm.becker@xos.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "admin@leo-pharma.com": [
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:08",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "fl9j40ioa5y4y4yj@leo-pharma.com": [
+        {
+            "timestamp": "2025-03-16 20:45:08",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:09",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "contact@es2im.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:29",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "es2im@es2im.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:30",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "support@desertcart.com": [
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "communication@pasteur.ma": [
+        {
+            "timestamp": "2025-03-16 20:46:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:17",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:17",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:17",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "admin@emsi.ma": [
+        {
+            "timestamp": "2025-03-16 20:47:48",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:49",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "nobdzxvakkwsnh2y@emsi.ma": [
+        {
+            "timestamp": "2025-03-16 20:47:49",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:50",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "moroccan.association@xrm.com": [
+        {
+            "timestamp": "2025-03-16 20:49:15",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:49:15",
+            "event": "Provider identified: zoho.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:49:15",
+            "event": "Using standard verification for zoho.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:49:15",
+            "event": "Login verification started using chrome"
+        }
+    ],
+    "admin@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:01",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:02",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:31",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:32",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:51",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:52",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:11",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:12",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:02",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:03",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:23",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:24",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "jzcz974lwkbhmf6z@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:02",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:03",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "agence.tanger@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:31",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:31",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:31",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:33",
+            "event": "Microsoft API catch-all domain detected - switching to Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:33",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:48",
+            "event": "Login verification: Custom - redirected to custom login page"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:51",
+            "event": "Try to log in https://login.live.com/ instead"
+        }
+    ],
+    "1v3anjdrta0raxny@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:32",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:33",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "4pw5w4ls0ptaj9yp@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:21:52",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:21:53",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "srgvzqvr2k3zx1zu@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:22:12",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:13",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "admin@gbh.fr": [
+        {
+            "timestamp": "2025-03-16 21:22:32",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:33",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:42",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:43",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "48n3yyclpy2nv32c@gbh.fr": [
+        {
+            "timestamp": "2025-03-16 21:22:33",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:22:34",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "6v7c4o47xp7s4xfz@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:23:03",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:05",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "cx77ltohv9i4upiw@hertz.ma": [
+        {
+            "timestamp": "2025-03-16 21:23:24",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:25",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ],
+    "5y26dyb6fzceezxy@gbh.fr": [
+        {
+            "timestamp": "2025-03-16 21:23:43",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 21:23:44",
+            "event": "Microsoft API verification result: VALID (Email address exists)"
+        }
+    ]
+}

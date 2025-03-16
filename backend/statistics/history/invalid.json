@@ -1,0 +1,804 @@
+{
+    "contact@stage.ma": [
+        {
+            "timestamp": "2025-03-16 20:41:09",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:09",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:09",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:29",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "20communication@aui.ma": [
+        {
+            "timestamp": "2025-03-16 20:41:30",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:30",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:30",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:32",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:33",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "recruitment@aui.ma": [
+        {
+            "timestamp": "2025-03-16 20:41:33",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:33",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:33",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:35",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:36",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "k.skalli@stoursvoyages.com": [
+        {
+            "timestamp": "2025-03-16 20:41:55",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:55",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:55",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:57",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:41:58",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "contact@studioceramique.ma": [
+        {
+            "timestamp": "2025-03-16 20:42:03",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:03",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:03",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:23",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "noura.midhat@fourseasons.com": [
+        {
+            "timestamp": "2025-03-16 20:42:23",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:23",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:23",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:25",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "h.belhadfa@stoursvoyages.com": [
+        {
+            "timestamp": "2025-03-16 20:42:31",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:31",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:31",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:33",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:34",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "chaimaa.touirid@oberoihotels.com": [
+        {
+            "timestamp": "2025-03-16 20:42:34",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:35",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:35",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:38",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:39",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "raked_hr@hilton.com": [
+        {
+            "timestamp": "2025-03-16 20:42:52",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:52",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:52",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:54",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:42:55",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "eam@riadfes.com": [
+        {
+            "timestamp": "2025-03-16 20:43:00",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:00",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:00",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:06",
+            "event": "SMTP verification result: INVALID (SMTP Error: 554 - 5.7.1 Service unavailable; Client host [105.158.240.153] blocked using pbl.spamhaus.org; Listed by PBL, see https://check.spamhaus.org/query/ip/105.158.240.153)"
+        }
+    ],
+    "n.elfasy@jrobuchon.ma": [
+        {
+            "timestamp": "2025-03-16 20:43:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:11",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:11",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:31",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "recruitment.tamudabay@stregis.com": [
+        {
+            "timestamp": "2025-03-16 20:43:32",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:32",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:32",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:34",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:35",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "a.khili@jrobuchon.ma": [
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:43:41",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:02",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "souad.laqsil@fourseasons.com": [
+        {
+            "timestamp": "2025-03-16 20:44:06",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:06",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:06",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:08",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "mehdi.essnoussi@fourseasons.com": [
+        {
+            "timestamp": "2025-03-16 20:44:09",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:09",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:09",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:11",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "careers.marrakech@oberoihotels.com": [
+        {
+            "timestamp": "2025-03-16 20:44:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:11",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:11",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:14",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:16",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "info@enzazaden.co.uk": [
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:17",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:19",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:20",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "enzazaden@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-16 20:44:20",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:20",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:20",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:22",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:23",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "info@enzazaden.com.tr": [
+        {
+            "timestamp": "2025-03-16 20:44:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:24",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:24",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:26",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:27",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "l.mashurova@enzazaden.com": [
+        {
+            "timestamp": "2025-03-16 20:44:27",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:27",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:27",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:29",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:30",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "directrice@cc.gov.ma": [
+        {
+            "timestamp": "2025-03-16 20:44:31",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:31",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:31",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:51",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "info@tanmia.ma": [
+        {
+            "timestamp": "2025-03-16 20:44:52",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:52",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:52",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:55",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "contact@aznco.net": [
+        {
+            "timestamp": "2025-03-16 20:44:56",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:56",
+            "event": "Domain has no mail servers"
+        }
+    ],
+    "e-rdv@chumarrakech.ma": [
+        {
+            "timestamp": "2025-03-16 20:44:56",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:56",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:56",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:58",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:44:59",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "webmaster@fmp.um5.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:00",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:00",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:00",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:02",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:02",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "webmaster@fmd.um5.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:45:03",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:03",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:03",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:05",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:06",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "job@leo-pharma.com": [
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:07",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:09",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:10",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "hajartourabi15@gmail.com": [
+        {
+            "timestamp": "2025-03-16 20:45:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:11",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:11",
+            "event": "Following Gmail verification order: SMTP -> Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:11",
+            "event": "SMTP verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:29",
+            "event": "SMTP verification result: INVALID (SMTP Error: 452 - 4.2.2 The recipient's inbox is out of storage space. Please direct the\n4.2.2 recipient to\n4.2.2  https://support.google.com/mail/?p=OverQuotaTemp 98e67ed59e1d1-3015375eddbsi6169108a91.22 - gsmtp)"
+        }
+    ],
+    "sndiaye@worldbank.org": [
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:39",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:45:45",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "wfirachine@worldbank.org": [
+        {
+            "timestamp": "2025-03-16 20:46:13",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:13",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:13",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:16",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "documentation@livremoi.ma": [
+        {
+            "timestamp": "2025-03-16 20:46:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:17",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:17",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:37",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "contact@livremoi.ma": [
+        {
+            "timestamp": "2025-03-16 20:46:38",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:38",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:38",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:58",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "asxvmprobertest@gmail.com": [
+        {
+            "timestamp": "2025-03-16 20:46:59",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:59",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:59",
+            "event": "Following Gmail verification order: SMTP -> Selenium"
+        },
+        {
+            "timestamp": "2025-03-16 20:46:59",
+            "event": "SMTP verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:16",
+            "event": "SMTP verification result: INVALID (SMTP Error: 452 - 4.2.2 The recipient's inbox is out of storage space. Please direct the\n4.2.2 recipient to\n4.2.2  https://support.google.com/mail/?p=OverQuotaTemp d9443c01a7336-225c6b8e338si95248265ad.520 - gsmtp)"
+        }
+    ],
+    "mymarket.ma-_2_195x@2x.jpg": [
+        {
+            "timestamp": "2025-03-16 20:47:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:24",
+            "event": "Domain has no mail servers"
+        }
+    ],
+    "contact@rootsacademy.ma": [
+        {
+            "timestamp": "2025-03-16 20:47:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:24",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:24",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:44",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "webmaster@emsi.ma": [
+        {
+            "timestamp": "2025-03-16 20:47:48",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:48",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:48",
+            "event": "Following Microsoft verification order: API -> Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:50",
+            "event": "Microsoft API verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:51",
+            "event": "Microsoft API verification result: INVALID (Email address does not exist)"
+        }
+    ],
+    "e1119a7727ef4f45b4037672b4feaaf6@o832110.ingest.sentry.io": [
+        {
+            "timestamp": "2025-03-16 20:47:52",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:47:52",
+            "event": "Domain has no mail servers"
+        }
+    ],
+    "contact@fstg-marrakech.com": [
+        {
+            "timestamp": "2025-03-16 20:48:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:11",
+            "event": "Domain has no mail servers"
+        }
+    ],
+    "you@email.com": [
+        {
+            "timestamp": "2025-03-16 20:48:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:24",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:24",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:32",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "encgtanger@encgt.uae.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:48:32",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:32",
+            "event": "Domain has no mail servers"
+        }
+    ],
+    "sce.recherche.cooperation@encgt.uae.ac.ma": [
+        {
+            "timestamp": "2025-03-16 20:48:33",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:33",
+            "event": "Domain has no mail servers"
+        }
+    ],
+    "encgtanger@encgt.ma": [
+        {
+            "timestamp": "2025-03-16 20:48:33",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:33",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:33",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:53",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ],
+    "support@afafstore.ma": [
+        {
+            "timestamp": "2025-03-16 20:48:54",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:54",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-16 20:48:54",
+            "event": "Using generic verification order for unknown provider"
+        },
+        {
+            "timestamp": "2025-03-16 20:49:14",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
+    ]
+}

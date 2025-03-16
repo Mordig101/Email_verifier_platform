@@ -1,0 +1,1913 @@
+{
+    "abdo.abiido@gmail.com": {
+        "email": "abdo.abiido@gmail.com",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "gmail.com",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "alt3.gmail-smtp-in.l.google.com"
+        }
+    },
+    "i.ghomri@aui.ma": {
+        "email": "i.ghomri@aui.ma",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "outlook.com",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "joinus@experiencemorocco.com": {
+        "email": "joinus@experiencemorocco.com",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "experiencemorocco.com",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "aspmx.l.google.com"
+        }
+    },
+    "biuro@enzazaden.pl": {
+        "email": "biuro@enzazaden.pl",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "outlook.com",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "k.shelbayh@enzazaden.com": {
+        "email": "k.shelbayh@enzazaden.com",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "outlook.com",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "info@enzazaden.com.br": {
+        "email": "info@enzazaden.com.br",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "outlook.com",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "conformite@wafaassurance.co.ma": {
+        "email": "conformite@wafaassurance.co.ma",
+        "category": "risky",
+        "reason": "Domain has catch-all configuration",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": true,
+                "smtp_check": true,
+                "reason": null,
+                "mx_used": "barid2.wafaassurance.co.ma"
+            },
+            "is_catch_all": true,
+            "mx_records": [
+                "barid2.wafaassurance.co.ma",
+                "barid3.wafaassurance.co.ma",
+                "barid.wafaassurance.co.ma"
+            ]
+        }
+    },
+    "info@xos.ma": {
+        "email": "info@xos.ma",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "customGoogle",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "phar.s@yahoo.com": {
+        "email": "phar.s@yahoo.com",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "yahoo.com",
+        "details": {
+            "is_deliverable": false,
+            "smtp_check": false,
+            "reason": "All MX servers rejected connection or verification",
+            "mx_used": null
+        }
+    },
+    "pharmacie.casablanca10@gmail.com": {
+        "email": "pharmacie.casablanca10@gmail.com",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "gmail.com",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "abdelouhab.sabri@pasteur.ma": {
+        "email": "abdelouhab.sabri@pasteur.ma",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "pasteur.ma",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "alt2.aspmx.l.google.com"
+        }
+    },
+    "nom_utilisateur@exemple.com": {
+        "email": "nom_utilisateur@exemple.com",
+        "category": "invalid",
+        "reason": "Domain is blacklisted",
+        "provider": "exemple.com",
+        "details": null
+    },
+    "utilisateur@exemple.com": {
+        "email": "utilisateur@exemple.com",
+        "category": "invalid",
+        "reason": "Domain is blacklisted",
+        "provider": "exemple.com",
+        "details": null
+    },
+    "contact@charika.ma": {
+        "email": "contact@charika.ma",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "charika.ma",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "alt4.aspmx.l.google.com"
+        }
+    },
+    "utlisateur@exemple.com": {
+        "email": "utlisateur@exemple.com",
+        "category": "invalid",
+        "reason": "Domain is blacklisted",
+        "provider": "exemple.com",
+        "details": null
+    },
+    "support@lu.ma": {
+        "email": "support@lu.ma",
+        "category": "risky",
+        "reason": "Browser error: Message: 'geckodriver' executable needs to be in PATH. \n",
+        "provider": "customGoogle",
+        "details": {
+            "browser": "firefox"
+        }
+    },
+    "contact@dinomite.org": {
+        "email": "contact@dinomite.org",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "dinomite.org",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "alt1.aspmx.l.google.com"
+        }
+    },
+    "h.mouafiq@usms.ma": {
+        "email": "h.mouafiq@usms.ma",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "usms.ma",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "aspmx.l.google.com"
+        }
+    },
+    "hafdane.abderrahmane@etu.uae.ac.ma": {
+        "email": "hafdane.abderrahmane@etu.uae.ac.ma",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "etu.uae.ac.ma",
+        "details": {
+            "is_deliverable": true,
+            "smtp_check": true,
+            "reason": null,
+            "mx_used": "aspmx2.googlemail.com"
+        }
+    },
+    "agence.essaouira@hertz.ma": {
+        "email": "agence.essaouira@hertz.ma",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "firefox",
+            "method": "login"
+        }
+    },
+    "contact@stage.ma": {
+        "email": "contact@stage.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "server7.heberfacile.net"
+            ],
+            "method": "login",
+            "verification_time": 20.17926049232483
+        }
+    },
+    "20communication@aui.ma": {
+        "email": "20communication@aui.ma",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "20communication@aui.ma",
+                "Display": "20communication@aui.ma",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/bannerlogo?ts=636950886981339420",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/tilelogo?ts=636950887592161587",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/squarelogodark?ts=636950887600165550",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/illustration?ts=636950875514491475",
+                            "BoilerPlateText": "<p>i.e: F.Lastname@aui.ma or @alumni.aui.ma.\nPlease contact ITS Service Desk for toubleshooting</p>\n",
+                            "UserIdLabel": "F.Lastname@aui.ma or F.Lastname@alumni.aui.ma.",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEQynAEKNSQrSHbXpCtaQ2fzULuGl1Kb10OSeP8e9Xsr8NwQRZh_lD_4SLaGUTEQxQiZCMlVH9EJIkupo3r6vbqRlbNGgvmgFx2S2tDWrGH8ecviiR_uzO5QuyzONiteChfUycZ9-XekXNcPoCaIJVStjaSAtEc62iGKV2jtyWZuZqUHpzfq0_I_L6thQ0NGf2PtHiTtMLLmR9PSL0ploxVyAA"
+            },
+            "method": "login",
+            "verification_time": 2.8222196102142334
+        }
+    },
+    "recruitment@aui.ma": {
+        "email": "recruitment@aui.ma",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "recruitment@aui.ma",
+                "Display": "recruitment@aui.ma",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/bannerlogo?ts=636950886981339420",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/tilelogo?ts=636950887592161587",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/squarelogodark?ts=636950887600165550",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-cedohf-devgzqdq-is4lae5fb38wz7ygtyvn181zvok/logintenantbranding/0/illustration?ts=636950875514491475",
+                            "BoilerPlateText": "<p>i.e: F.Lastname@aui.ma or @alumni.aui.ma.\nPlease contact ITS Service Desk for toubleshooting</p>\n",
+                            "UserIdLabel": "F.Lastname@aui.ma or F.Lastname@alumni.aui.ma.",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQErEQhiMe21XWPxY4ifn2-bevry9RWhB4cHxxf9C8HEi2fdGuVdOj26H5Ybycv1nForRESZBB4TTwxjX374nkekkgRYyCCjQQsj08Ju7bzEe1FhJtcc63ybe3QJmvhyDzabsrZp76wgOlaMXyi9cZumiHeJa7VTKyJmER_pOw2bwJGhTweqYmaMmXiH7s-QbtGgdkgmQvcoqJkqKfAT0SIryAA"
+            },
+            "method": "login",
+            "verification_time": 2.6007349491119385
+        }
+    },
+    "youssra.mouatassim@fairmont.com": {
+        "email": "youssra.mouatassim@fairmont.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "accor.in.tmes.trendmicro.eu"
+            },
+            "mx_records": [
+                "accor.in.tmes.trendmicro.eu"
+            ],
+            "method": "login",
+            "verification_time": 3.947742462158203
+        }
+    },
+    "hajar.ghannam@sofitel.com": {
+        "email": "hajar.ghannam@sofitel.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "accor.in.tmes.trendmicro.eu"
+            },
+            "mx_records": [
+                "accor.in.tmes.trendmicro.eu"
+            ],
+            "method": "login",
+            "verification_time": 3.365445852279663
+        }
+    },
+    "contact@tulumbeachdakhla.com": {
+        "email": "contact@tulumbeachdakhla.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mx1.hostinger.com"
+            },
+            "mx_records": [
+                "mx1.hostinger.com",
+                "mx2.hostinger.com"
+            ],
+            "method": "login",
+            "verification_time": 9.825655937194824
+        }
+    },
+    "k.skalli@stoursvoyages.com": {
+        "email": "k.skalli@stoursvoyages.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "k.skalli@stoursvoyages.com",
+                "Display": "k.skalli@stoursvoyages.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": null,
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE34Ztix0Urr7ahbvkXhjOq085V62rni14LNym68CG477NMHzfOhP9U83Heu9dJEcdFrfRhkGJeKHct68C4xCkrYKsrAwirAVQ7-6BnH-9bL7CJubEblIdgOxusFpVSKRPjA-lysg8B64ykM0_PG2po4Zh8RaGcNq54l8rZ8WX-fcW2LwynLdh9eKgsDnrPLgcVzD0pKPBs6kA4BGAr8XfaCAA"
+            },
+            "method": "login",
+            "verification_time": 2.9518837928771973
+        }
+    },
+    "recrutement@michlifen.com": {
+        "email": "recrutement@michlifen.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mail.michlifen.com"
+            },
+            "mx_records": [
+                "mail.michlifen.com"
+            ],
+            "method": "login",
+            "verification_time": 3.7114548683166504
+        }
+    },
+    "contact@studioceramique.ma": {
+        "email": "contact@studioceramique.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "studioceramique.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.116944789886475
+        }
+    },
+    "noura.midhat@fourseasons.com": {
+        "email": "noura.midhat@fourseasons.com",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx1.fourseasons.iphmx.com",
+                "mx2.fourseasons.iphmx.com"
+            ],
+            "method": "login",
+            "verification_time": 2.1016483306884766
+        }
+    },
+    "ksahraoui@palaisronsard.com": {
+        "email": "ksahraoui@palaisronsard.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mail.palaisronsard.com"
+            },
+            "mx_records": [
+                "mail.palaisronsard.com"
+            ],
+            "method": "login",
+            "verification_time": 4.494243383407593
+        }
+    },
+    "h.belhadfa@stoursvoyages.com": {
+        "email": "h.belhadfa@stoursvoyages.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "h.belhadfa@stoursvoyages.com",
+                "Display": "h.belhadfa@stoursvoyages.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": null,
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE5KG9KBkcgjwp5VtoVL337lAfCu6DyyytuGkFOqxu9Kxp-s0sLPxhwNWLDHmFSkK8hR1GjKvrRmLMQL8paMo1OgfqSpvVa9ydNO3NjGKb2lTrdd0Dzde1Mhv0Fo3gk_eaYvM6XlQatrJwm9ndmnMql5IQdhEddOQLUFGZYddh80_OC4N-mwtq9gy0dUBkDN_APVntDVhFYL-xYvA2k5NTRiAA"
+            },
+            "method": "login",
+            "verification_time": 3.1048338413238525
+        }
+    },
+    "chaimaa.touirid@oberoihotels.com": {
+        "email": "chaimaa.touirid@oberoihotels.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "chaimaa.touirid@oberoihotels.com",
+                "Display": "chaimaa.touirid@oberoihotels.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": null,
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE9ghRG2Nw-htBfXC4H95mJ4b2SfqGZp7fvHB7gQXOD2mSCCDgsphIM4GGxmzKYuG4KxtKl7YUfKxeDeWcoIWB_m5L7aaaYCtQ5OSqZUoAJgb-Szr0bvI2nC_heot2jDbm83K8sTBh36qBf_n4zovJJbpiW6EagzRU0xpB9osigrOv0tTNq673GJ1o3GSpQw8n4vVEgmRCOapQHuS5FGDlZiAA"
+            },
+            "method": "login",
+            "verification_time": 4.743679523468018
+        }
+    },
+    "shouazar@aman.com": {
+        "email": "shouazar@aman.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "eu-smtp-inbound-1.mimecast.com"
+            },
+            "mx_records": [
+                "eu-smtp-inbound-1.mimecast.com",
+                "eu-smtp-inbound-2.mimecast.com"
+            ],
+            "method": "login",
+            "verification_time": 4.118119239807129
+        }
+    },
+    "juliette.freton@dorchestercollection.com": {
+        "email": "juliette.freton@dorchestercollection.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "eu-smtp-inbound-2.mimecast.com"
+            },
+            "mx_records": [
+                "eu-smtp-inbound-2.mimecast.com",
+                "eu-smtp-inbound-1.mimecast.com"
+            ],
+            "method": "login",
+            "verification_time": 3.360154151916504
+        }
+    },
+    "asmae.tajji@fairmont.com": {
+        "email": "asmae.tajji@fairmont.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "accor.in.tmes.trendmicro.eu"
+            },
+            "mx_records": [
+                "accor.in.tmes.trendmicro.eu"
+            ],
+            "method": "login",
+            "verification_time": 3.4520554542541504
+        }
+    },
+    "raked_hr@hilton.com": {
+        "email": "raked_hr@hilton.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "raked_hr@hilton.com",
+                "Display": "raked_hr@hilton.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "DesktopSsoEnabled": true,
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/dbd5a2dd-qlpszwyrqsahumotrstdm-492xuor0vvemdqyym5d8/logintenantbranding/0/bannerlogo?ts=638114038307467782",
+                            "Illustration": "https://aadcdn.msauthimages.net/dbd5a2dd-qlpszwyrqsahumotrstdm-492xuor0vvemdqyym5d8/logintenantbranding/0/illustration?ts=636564815406093384",
+                            "BoilerPlateText": "<p>Use of this system for authorized Hilton users only! Hilton 2025</p>\n",
+                            "UserIdLabel": "Hilton Email Address or OnQID@hilton.com",
+                            "KeepMeSignedInDisabled": true,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEiGrvygS-qetXLCi3xAKUWfoSE4Tdma_bwRGJ7cCgkF3pUHukg6DEUJr80tB9dYR6kM1YbpBFfzZYgMhoFDm1jkxX83Ha_blTOf4XCubPQkLDzLRTl5QQf_Wgqh4zFsU1Ea49DLF42NXVQcYpt85qcvLz6zl18RGhDHjeFAfjVfnlf_I2vRW8peH7P2XC9uk8ERMCspLjM5zXLwMKAuF7VyAA"
+            },
+            "method": "login",
+            "verification_time": 2.767972707748413
+        }
+    },
+    "contact@talent-advisor.com": {
+        "email": "contact@talent-advisor.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mxa.eu.mailgun.org"
+            },
+            "mx_records": [
+                "mxa.eu.mailgun.org",
+                "mxb.eu.mailgun.org",
+                "talent-advisor.com"
+            ],
+            "method": "login",
+            "verification_time": 3.9734528064727783
+        }
+    },
+    "eam@riadfes.com": {
+        "email": "eam@riadfes.com",
+        "category": "invalid",
+        "reason": "Email verification failed: SMTP Error: 554 - 5.7.1 Service unavailable; Client host [105.158.240.153] blocked using pbl.spamhaus.org; Listed by PBL, see https://check.spamhaus.org/query/ip/105.158.240.153",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "SMTP Error: 554 - 5.7.1 Service unavailable; Client host [105.158.240.153] blocked using pbl.spamhaus.org; Listed by PBL, see https://check.spamhaus.org/query/ip/105.158.240.153",
+                "mx_used": "spool.mail.gandi.net"
+            },
+            "mx_records": [
+                "fb.mail.gandi.net",
+                "spool.mail.gandi.net"
+            ],
+            "method": "login",
+            "verification_time": 6.501829624176025
+        }
+    },
+    "aboanarijesy@tronico-alcen.com": {
+        "email": "aboanarijesy@tronico-alcen.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mx-mibc-fr-09.mailinblack.com"
+            },
+            "mx_records": [
+                "mx-mibc-fr-09.mailinblack.com"
+            ],
+            "method": "login",
+            "verification_time": 3.6800026893615723
+        }
+    },
+    "n.elfasy@jrobuchon.ma": {
+        "email": "n.elfasy@jrobuchon.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "jrobuchon.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.224022150039673
+        }
+    },
+    "recruitment.tamudabay@stregis.com": {
+        "email": "recruitment.tamudabay@stregis.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "recruitment.tamudabay@stregis.com",
+                "Display": "recruitment.tamudabay@stregis.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": null,
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEh6AoJgU4RWzOCCxFkkMUoin5ZSrXiUgfRMEIBHp0fnLlj1vNQML7s_1Ezc4CFtrAVmL4ltytBQfG_yTYEcM1-J5crs8dnF7i0r4nLKURLw7aFda6qzGZrgvu3Em4dLT8RI1XsWXDWWk32EqFbTP5-_Hr0-hupunhKLjlPpn8s3-TZKy1uFfxwKmlCWZ_yKoxkbQIMIndGNww1sEsvLEBXCAA"
+            },
+            "method": "login",
+            "verification_time": 3.2216813564300537
+        }
+    },
+    "mhamed.elboukili@loreal.com": {
+        "email": "mhamed.elboukili@loreal.com",
+        "category": "valid",
+        "reason": "Email verified via SMTP",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": true,
+                "smtp_check": true,
+                "reason": null,
+                "mx_used": "mxa-002fa101.gslb.pphosted.com"
+            },
+            "mx_records": [
+                "mxa-002fa101.gslb.pphosted.com",
+                "mxb-002fa101.gslb.pphosted.com"
+            ],
+            "method": "login",
+            "verification_time": 5.367605686187744
+        }
+    },
+    "a.khili@jrobuchon.ma": {
+        "email": "a.khili@jrobuchon.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "jrobuchon.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.063775539398193
+        }
+    },
+    "younes.bouayad@sofitel.com": {
+        "email": "younes.bouayad@sofitel.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "accor.in.tmes.trendmicro.eu"
+            },
+            "mx_records": [
+                "accor.in.tmes.trendmicro.eu"
+            ],
+            "method": "login",
+            "verification_time": 3.5630805492401123
+        }
+    },
+    "souad.laqsil@fourseasons.com": {
+        "email": "souad.laqsil@fourseasons.com",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx1.fourseasons.iphmx.com",
+                "mx2.fourseasons.iphmx.com"
+            ],
+            "method": "login",
+            "verification_time": 1.900897741317749
+        }
+    },
+    "mehdi.essnoussi@fourseasons.com": {
+        "email": "mehdi.essnoussi@fourseasons.com",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx1.fourseasons.iphmx.com",
+                "mx2.fourseasons.iphmx.com"
+            ],
+            "method": "login",
+            "verification_time": 2.0531599521636963
+        }
+    },
+    "careers.marrakech@oberoihotels.com": {
+        "email": "careers.marrakech@oberoihotels.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "careers.marrakech@oberoihotels.com",
+                "Display": "careers.marrakech@oberoihotels.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": null,
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE94sffj1QNNSIGekiHSdFRxV1V-VKBr0zkot7KX05h-3Wph7p9csKRlnGJZMRhkY-9mJwO9IHfkYe4BvxVDpjLAuOTXG2ZwqMunP1tN4VdKN6yZhLcGnaH_X5w0M6QraiDHEsN673rylK_acLV9CWC8pzeOvSnjxbZekMGBwb6Z3m21SCoaA8qCllFOiJnopK0xqaUhG8DhnX4SMjGvbI-iAA"
+            },
+            "method": "login",
+            "verification_time": 4.7539567947387695
+        }
+    },
+    "info@enzazaden.co.uk": {
+        "email": "info@enzazaden.co.uk",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "info@enzazaden.co.uk",
+                "Display": "info@enzazaden.co.uk",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/bannerlogo?ts=638219183017044742",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/tilelogo?ts=638219183027420275",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/squarelogodark?ts=638219183038501354",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/illustration?ts=638219183047791510",
+                            "BoilerPlateText": "<p>For more information, please contact supportdesk@enzazaden.nl</p>\n",
+                            "UserIdLabel": "someone@example.com",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false,
+                            "Favicon": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/favicon?ts=638219183007005755"
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEvawPubJABOgztG0E23zAbCIX0dr7_8qCWGuCS7XYzcWUFPPqsAWUI5ms9gUnJxPOUVwN-BqY8wAbw6gnxMmAeJCPP9rXn-C_qM1WZ49xPh5gKnTKFRY8C9y8sEv4zEXB-fOc_10gLcyPVqKBBCqISVFrraZ2BE7NO1yD3NlMhN81cLXI9F6uQ8KB9w4WA7tk8b1uBV5YxN1UxD5yDxQG8CAA"
+            },
+            "method": "login",
+            "verification_time": 3.179687023162842
+        }
+    },
+    "enzazaden@enzazaden.com.br": {
+        "email": "enzazaden@enzazaden.com.br",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "enzazaden@enzazaden.com.br",
+                "Display": "enzazaden@enzazaden.com.br",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/bannerlogo?ts=638219183017044742",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/tilelogo?ts=638219183027420275",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/squarelogodark?ts=638219183038501354",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/illustration?ts=638219183047791510",
+                            "BoilerPlateText": "<p>For more information, please contact supportdesk@enzazaden.nl</p>\n",
+                            "UserIdLabel": "someone@example.com",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false,
+                            "Favicon": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/favicon?ts=638219183007005755"
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEoEMDacol7x2G6STJ_0Bi9kH0beNdpM9bv4-R0sPt5HM62rE7Tdwrzi8Dkzsa73KMLagCzmdfDKHp5ZhmjyEIE18vIdV4WKUlE79G7Baoir3Xz8rngUy9Q_VsuPj4yZiu0U81R9QuR7fzcx2YTwnex8fhNmHgLL-nt-GHK7mCZnn6IYkQPtfFTL0wbKKa91u0EVIcdL7xvBubwf3KlPfOnCAA"
+            },
+            "method": "login",
+            "verification_time": 2.9595820903778076
+        }
+    },
+    "info@enzazaden.com.tr": {
+        "email": "info@enzazaden.com.tr",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "info@enzazaden.com.tr",
+                "Display": "info@enzazaden.com.tr",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/bannerlogo?ts=638219183017044742",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/tilelogo?ts=638219183027420275",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/squarelogodark?ts=638219183038501354",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/illustration?ts=638219183047791510",
+                            "BoilerPlateText": "<p>For more information, please contact supportdesk@enzazaden.nl</p>\n",
+                            "UserIdLabel": "someone@example.com",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false,
+                            "Favicon": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/favicon?ts=638219183007005755"
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQErvujgZ5N1zhTkguVwOuLGt6Ij-AcVNhlPoC_ecADs49GE7frPizpujRcJlY2EWFsyRNFHSG0tb6ZgYgSdE6qAVgnaVyAmiDW-N_1LRqdKuRLwKv8MF-mxl3MW8a67WJ1dgXPSORWYgbVnHyOqFlGdOfDj9rybWyNz7WKkidt7lCo55lamnCQc0VEOKeM0MJ-pdn4uomFV4TZaKMj3IE8giAA"
+            },
+            "method": "login",
+            "verification_time": 3.030010461807251
+        }
+    },
+    "l.mashurova@enzazaden.com": {
+        "email": "l.mashurova@enzazaden.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "l.mashurova@enzazaden.com",
+                "Display": "l.mashurova@enzazaden.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/bannerlogo?ts=638219183017044742",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/tilelogo?ts=638219183027420275",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/squarelogodark?ts=638219183038501354",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/illustration?ts=638219183047791510",
+                            "BoilerPlateText": "<p>For more information, please contact supportdesk@enzazaden.nl</p>\n",
+                            "UserIdLabel": "someone@example.com",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false,
+                            "Favicon": "https://aadcdn.msauthimages.net/c1c6b6c8-d-fillvsiwzpjjttcxrlnt3w1imgd4-ra5-ttb1j5u/logintenantbranding/0/favicon?ts=638219183007005755"
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQECYav4rV02wbvYNQbxkWd6gwW4Njd8Az1GP8WTdfV7sZZ-OurA3Du3NuJscv1r_PM_XP0uhI2lCAu7lKwg3o3pHlNwEZJXNnEQu5lAPFpXFl9srac0mqh01kJGoqarcmPZfwsHMMftsXz7VuJh3x6IOr_mC01L2Lxm10f5xrmtsFskxJHhE7VggmaRkp1m6T4c0c-uOCKFr_cG5xENyGp3SAA"
+            },
+            "method": "login",
+            "verification_time": 3.0717051029205322
+        }
+    },
+    "directrice@cc.gov.ma": {
+        "email": "directrice@cc.gov.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mail.cc.gov.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.112645864486694
+        }
+    },
+    "info@tanmia.ma": {
+        "email": "info@tanmia.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx1.ibncs.com"
+            ],
+            "method": "login",
+            "verification_time": 3.625107526779175
+        }
+    },
+    "contact@aznco.net": {
+        "email": "contact@aznco.net",
+        "category": "invalid",
+        "reason": "Domain has no mail servers",
+        "provider": "unknown",
+        "details": {
+            "method": "login",
+            "verification_time": 0.06846308708190918
+        }
+    },
+    "e-rdv@chumarrakech.ma": {
+        "email": "e-rdv@chumarrakech.ma",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "e-rdv@chumarrakech.ma",
+                "Display": "e-rdv@chumarrakech.ma",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": null,
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE6lc_GbdZ9aTxnDPVbYS6KzJRJbwsbPgH6vBnqKEGGF0-faskcGuudWzNPIpY_2xPTrCDaUvMdCe8TGRIGgs6t-_MppjuiTkGNpwHnEUlReFowWNMvtXfHMENj7XWAvy7qVxDEG26ui0oUIu12EWESB0nnfYewC4_RNfYFh-_cNqM7J-AVt7u3ZHu3EejkkRa4qdRlYXbeXZl6gFS2oSCLSAA"
+            },
+            "method": "login",
+            "verification_time": 2.8918612003326416
+        }
+    },
+    "webmaster@fmp.um5.ac.ma": {
+        "email": "webmaster@fmp.um5.ac.ma",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "webmaster@fmp.um5.ac.ma",
+                "Display": "webmaster@fmp.um5.ac.ma",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-rypfpwaw1hgmxssrxmm4mgspzzdggyu5usdz7x7v7sa/logintenantbranding/0/bannerlogo?ts=637524237443725066",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-rypfpwaw1hgmxssrxmm4mgspzzdggyu5usdz7x7v7sa/logintenantbranding/0/tilelogo?ts=635698787774249506",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-rypfpwaw1hgmxssrxmm4mgspzzdggyu5usdz7x7v7sa/logintenantbranding/0/illustration?ts=635700349324907160",
+                            "BoilerPlateText": "<p>\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0627\u0644\u0625\u0643\u062a\u0631\u0648\u0646\u064a\u0629  \u0644\u062c\u0627\u0645\u0639\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u0627\u0645\u0633 \u0628\u0627\u0644\u0631\u0628\u0627\u0637 - Suite de Services de Productivit\u00e9 en Ligne de l'Universit\u00e9 Mohammed V de Rabat</p>\n",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE6HnsY_Q7mI3PYv4idNCc-E6Ec3cwXQ0HSRAh9DlFgWMH1v5wkXxlDz31UkHgQk3HmGQvVmvSvT4wkY0fPT-ldlXxmWmU2sug7X1NyNsCh8vP-rKLbva2rTteIU-7EzdEJp6DM7xzPyS773Ycx0dq4Z026uIs53SKzQZu_32ouXCv4cyfOFo61-3lQzmB2-dBu93mueZbyeGZZ9b-s_x7_CAA"
+            },
+            "method": "login",
+            "verification_time": 2.744671583175659
+        }
+    },
+    "webmaster@fmd.um5.ac.ma": {
+        "email": "webmaster@fmd.um5.ac.ma",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "webmaster@fmd.um5.ac.ma",
+                "Display": "webmaster@fmd.um5.ac.ma",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-rypfpwaw1hgmxssrxmm4mgspzzdggyu5usdz7x7v7sa/logintenantbranding/0/bannerlogo?ts=637524237443725066",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-rypfpwaw1hgmxssrxmm4mgspzzdggyu5usdz7x7v7sa/logintenantbranding/0/tilelogo?ts=635698787774249506",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-rypfpwaw1hgmxssrxmm4mgspzzdggyu5usdz7x7v7sa/logintenantbranding/0/illustration?ts=635700349324907160",
+                            "BoilerPlateText": "<p>\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0627\u0644\u0625\u0643\u062a\u0631\u0648\u0646\u064a\u0629  \u0644\u062c\u0627\u0645\u0639\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u0627\u0645\u0633 \u0628\u0627\u0644\u0631\u0628\u0627\u0637 - Suite de Services de Productivit\u00e9 en Ligne de l'Universit\u00e9 Mohammed V de Rabat</p>\n",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEKqOFSDhR54ZYeNnyE4VGI20MA4ql9VHppCLXwmJMFVB0Y-u-dJMfEPG0vruG55gXH6j6_qDjl_QvQkhKaHCLEL9iAMX1EXtQDytNpf9fTbPIghJxGoNpest8qPE5mmlHnbIbnBqHBFsTdfa5AIBhMZZjBDewvIDn5tzXHsiRjjvnr9wwDZ0VGqjitA5p2t7q4fDMlFtkfjyF8IGyvacmVyAA"
+            },
+            "method": "login",
+            "verification_time": 3.0147242546081543
+        }
+    },
+    "job@leo-pharma.com": {
+        "email": "job@leo-pharma.com",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "job@leo-pharma.com",
+                "Display": "job@leo-pharma.com",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "DesktopSsoEnabled": true,
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-pf-rse4o2c4xl7wplzprrqk3iwc5z0xeakbnydf9ti0/logintenantbranding/0/bannerlogo?ts=637178913479593097",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-pf-rse4o2c4xl7wplzprrqk3iwc5z0xeakbnydf9ti0/logintenantbranding/0/tilelogo?ts=637178913490192537",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-pf-rse4o2c4xl7wplzprrqk3iwc5z0xeakbnydf9ti0/logintenantbranding/0/squarelogodark?ts=637178913496702474",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-pf-rse4o2c4xl7wplzprrqk3iwc5z0xeakbnydf9ti0/logintenantbranding/0/illustration?ts=637178913472979572",
+                            "UserIdLabel": "someone@leo-pharma.com",
+                            "KeepMeSignedInDisabled": true,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQEplSrjpuuTtUTFwVtgDQ0zXjsyDJKa_yybPCxBBaJOitJmVhYrcrU-axJCf7e_Rkm2XJ48laRzMkpukXTGr9TD1plrcXR62UwCSolGZ7MbWOlADfR6dznKvxNvM8V1GHOMQdT8H54kIXaA7u7fcxnAAlP2RMIjp4pxYIfPEFEKVTGVAwAFsUDJxX_Eu16c5H34l5AurvoGrIhMf6qCdyslyAA"
+            },
+            "method": "login",
+            "verification_time": 3.3338804244995117
+        }
+    },
+    "hajartourabi15@gmail.com": {
+        "email": "hajartourabi15@gmail.com",
+        "category": "invalid",
+        "reason": "Email verification failed: SMTP Error: 452 - 4.2.2 The recipient's inbox is out of storage space. Please direct the\n4.2.2 recipient to\n4.2.2  https://support.google.com/mail/?p=OverQuotaTemp 98e67ed59e1d1-3015375eddbsi6169108a91.22 - gsmtp",
+        "provider": "gmail.com",
+        "details": {
+            "is_deliverable": false,
+            "smtp_check": false,
+            "reason": "SMTP Error: 452 - 4.2.2 The recipient's inbox is out of storage space. Please direct the\n4.2.2 recipient to\n4.2.2  https://support.google.com/mail/?p=OverQuotaTemp 98e67ed59e1d1-3015375eddbsi6169108a91.22 - gsmtp",
+            "mx_used": "alt2.gmail-smtp-in.l.google.com",
+            "method": "login",
+            "verification_time": 18.331764221191406
+        }
+    },
+    "entreprise@inpt.ac.ma": {
+        "email": "entreprise@inpt.ac.ma",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mail2.inpt.ac.ma"
+            },
+            "mx_records": [
+                "mail2.inpt.ac.ma"
+            ],
+            "method": "login",
+            "verification_time": 8.956811666488647
+        }
+    },
+    "sndiaye@worldbank.org": {
+        "email": "sndiaye@worldbank.org",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "wbvapiron02.worldbank.org",
+                "wbvapiron03.worldbank.org",
+                "wbvapiron04.worldbank.org",
+                "wbvapiron01.worldbank.org"
+            ],
+            "method": "login",
+            "verification_time": 6.256845951080322
+        }
+    },
+    "contact@hortimedia.ma": {
+        "email": "contact@hortimedia.ma",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mail.hortimedia.ma"
+            },
+            "mx_records": [
+                "mail.hortimedia.ma",
+                "hortimedia.ma"
+            ],
+            "method": "login",
+            "verification_time": 27.06503462791443
+        }
+    },
+    "wfirachine@worldbank.org": {
+        "email": "wfirachine@worldbank.org",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "wbvapiron02.worldbank.org",
+                "wbvapiron03.worldbank.org",
+                "wbvapiron04.worldbank.org",
+                "wbvapiron01.worldbank.org"
+            ],
+            "method": "login",
+            "verification_time": 2.523420810699463
+        }
+    },
+    "documentation@livremoi.ma": {
+        "email": "documentation@livremoi.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mail.livremoi.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.137924194335938
+        }
+    },
+    "contact@livremoi.ma": {
+        "email": "contact@livremoi.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mail.livremoi.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.05109715461731
+        }
+    },
+    "asxvmprobertest@gmail.com": {
+        "email": "asxvmprobertest@gmail.com",
+        "category": "invalid",
+        "reason": "Email verification failed: SMTP Error: 452 - 4.2.2 The recipient's inbox is out of storage space. Please direct the\n4.2.2 recipient to\n4.2.2  https://support.google.com/mail/?p=OverQuotaTemp d9443c01a7336-225c6b8e338si95248265ad.520 - gsmtp",
+        "provider": "gmail.com",
+        "details": {
+            "is_deliverable": false,
+            "smtp_check": false,
+            "reason": "SMTP Error: 452 - 4.2.2 The recipient's inbox is out of storage space. Please direct the\n4.2.2 recipient to\n4.2.2  https://support.google.com/mail/?p=OverQuotaTemp d9443c01a7336-225c6b8e338si95248265ad.520 - gsmtp",
+            "mx_used": "alt2.gmail-smtp-in.l.google.com",
+            "method": "login",
+            "verification_time": 17.77341866493225
+        }
+    },
+    "robert@broofa.com": {
+        "email": "robert@broofa.com",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "broofa-com.mxguardian.net"
+            },
+            "mx_records": [
+                "broofa-com.mxguardian.net"
+            ],
+            "method": "login",
+            "verification_time": 6.259689569473267
+        }
+    },
+    "mymarket.ma-_2_195x@2x.jpg": {
+        "email": "mymarket.ma-_2_195x@2x.jpg",
+        "category": "invalid",
+        "reason": "Domain has no mail servers",
+        "provider": "unknown",
+        "details": {
+            "method": "login",
+            "verification_time": 0.06203007698059082
+        }
+    },
+    "contact@rootsacademy.ma": {
+        "email": "contact@rootsacademy.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "rootsacademy.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.347390174865723
+        }
+    },
+    "contact@tangermed.ma": {
+        "email": "contact@tangermed.ma",
+        "category": "risky",
+        "reason": "Domain has catch-all configuration",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": true,
+                "smtp_check": true,
+                "reason": null,
+                "mx_used": "mail1.tangermed.ma"
+            },
+            "is_catch_all": true,
+            "mx_records": [
+                "mail1.tangermed.ma",
+                "mail2.tangermed.ma"
+            ],
+            "method": "login",
+            "verification_time": 2.9368345737457275
+        }
+    },
+    "webmaster@emsi.ma": {
+        "email": "webmaster@emsi.ma",
+        "category": "invalid",
+        "reason": "Email address does not exist (Microsoft API)",
+        "provider": "Microsoft",
+        "details": {
+            "response": {
+                "Username": "webmaster@emsi.ma",
+                "Display": "webmaster@emsi.ma",
+                "IfExistsResult": 1,
+                "IsUnmanaged": false,
+                "ThrottleStatus": 0,
+                "Credentials": {
+                    "PrefCredential": 1,
+                    "HasPassword": true,
+                    "RemoteNgcParams": null,
+                    "FidoParams": null,
+                    "QrCodePinParams": null,
+                    "SasParams": null,
+                    "CertAuthParams": null,
+                    "GoogleParams": null,
+                    "FacebookParams": null,
+                    "OtcNotAutoSent": false
+                },
+                "DfpProperties": {},
+                "EstsProperties": {
+                    "UserTenantBranding": [
+                        {
+                            "Locale": 0,
+                            "BannerLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-pahev033anpt0w7xvz2j3pzwblgb9hvcq-ftdj8ctge/logintenantbranding/0/bannerlogo?ts=637977926370387752",
+                            "TileLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-pahev033anpt0w7xvz2j3pzwblgb9hvcq-ftdj8ctge/logintenantbranding/0/tilelogo?ts=637977926372265228",
+                            "TileDarkLogo": "https://aadcdn.msauthimages.net/c1c6b6c8-pahev033anpt0w7xvz2j3pzwblgb9hvcq-ftdj8ctge/logintenantbranding/0/squarelogodark?ts=637977926376952284",
+                            "Illustration": "https://aadcdn.msauthimages.net/c1c6b6c8-pahev033anpt0w7xvz2j3pzwblgb9hvcq-ftdj8ctge/logintenantbranding/0/illustration?ts=637977926368513250",
+                            "BoilerPlateText": "<p><em>Vous rencontrez un probl\u00e8me de connexion ? Contactez notre Helpdesk :</em> <strong>Helpdesk@emsi.ma</strong></p>\n",
+                            "UserIdLabel": "someone@example.ma",
+                            "KeepMeSignedInDisabled": false,
+                            "UseTransparentLightBox": false
+                        }
+                    ],
+                    "DomainType": 3
+                },
+                "FlowToken": "",
+                "IsSignupDisallowed": true,
+                "apiCanary": "PAQABDgEAAABVrSpeuWamRam2jAF1XRQE4Rad5DAS1MhuUWIFT48W_s-QHrr5zORJeGABsEQ4K6i8iK9nYCijA_U33RUR4qailaekVGhs4tnpW0oUd8SwMkiIZuXufKodaHsi4SmbzWR3A5Y9-brOe3rqs90lwFdbdspIRY59o47I4_jypTlteg3C2ikrQNq_Xk3PW-bT_H_XpOpbL1OhRQBNA9JuI5CGJYaOaAGow_fVfvMsLlFxZCAA"
+            },
+            "method": "login",
+            "verification_time": 2.7605032920837402
+        }
+    },
+    "e1119a7727ef4f45b4037672b4feaaf6@o832110.ingest.sentry.io": {
+        "email": "e1119a7727ef4f45b4037672b4feaaf6@o832110.ingest.sentry.io",
+        "category": "invalid",
+        "reason": "Domain has no mail servers",
+        "provider": "unknown",
+        "details": {
+            "method": "login",
+            "verification_time": 0.08028268814086914
+        }
+    },
+    "cddat344@cambridgema.gov": {
+        "email": "cddat344@cambridgema.gov",
+        "category": "risky",
+        "reason": "Domain has catch-all configuration",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": true,
+                "smtp_check": true,
+                "reason": null,
+                "mx_used": "mxa-00433301.gslb.pphosted.com"
+            },
+            "is_catch_all": true,
+            "mx_records": [
+                "mxa-00433301.gslb.pphosted.com",
+                "mxb-00433301.gslb.pphosted.com"
+            ],
+            "method": "login",
+            "verification_time": 8.653597593307495
+        }
+    },
+    "ktnead@mdanderson.org": {
+        "email": "ktnead@mdanderson.org",
+        "category": "risky",
+        "reason": "Domain has catch-all configuration",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": true,
+                "smtp_check": true,
+                "reason": null,
+                "mx_used": "mxb-003a8801.gslb.pphosted.com"
+            },
+            "is_catch_all": true,
+            "mx_records": [
+                "mxb-003a8801.gslb.pphosted.com",
+                "mxa-003a8801.gslb.pphosted.com"
+            ],
+            "method": "login",
+            "verification_time": 9.04213547706604
+        }
+    },
+    "contact@fstg-marrakech.com": {
+        "email": "contact@fstg-marrakech.com",
+        "category": "invalid",
+        "reason": "Domain has no mail servers",
+        "provider": "unknown",
+        "details": {
+            "method": "login",
+            "verification_time": 0.09723401069641113
+        }
+    },
+    "direction@hcs.ma": {
+        "email": "direction@hcs.ma",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mx1.hostinger.fr"
+            },
+            "mx_records": [
+                "mx1.hostinger.fr",
+                "mx2.hostinger.fr"
+            ],
+            "method": "login",
+            "verification_time": 4.05911660194397
+        }
+    },
+    "collaboration@hcs.ma": {
+        "email": "collaboration@hcs.ma",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mx1.hostinger.fr"
+            },
+            "mx_records": [
+                "mx1.hostinger.fr",
+                "mx2.hostinger.fr"
+            ],
+            "method": "login",
+            "verification_time": 3.55851411819458
+        }
+    },
+    "contact@hcs.ma": {
+        "email": "contact@hcs.ma",
+        "category": "risky",
+        "reason": "Mailbox unavailable (may not indicate invalid email)",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "Mailbox unavailable",
+                "mx_used": "mx1.hostinger.fr"
+            },
+            "mx_records": [
+                "mx1.hostinger.fr",
+                "mx2.hostinger.fr"
+            ],
+            "method": "login",
+            "verification_time": 3.3007373809814453
+        }
+    },
+    "you@email.com": {
+        "email": "you@email.com",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx01.mail.com",
+                "mx00.mail.com"
+            ],
+            "method": "login",
+            "verification_time": 7.669376850128174
+        }
+    },
+    "encgtanger@encgt.uae.ac.ma": {
+        "email": "encgtanger@encgt.uae.ac.ma",
+        "category": "invalid",
+        "reason": "Domain has no mail servers",
+        "provider": "unknown",
+        "details": {
+            "method": "login",
+            "verification_time": 0.03926873207092285
+        }
+    },
+    "sce.recherche.cooperation@encgt.uae.ac.ma": {
+        "email": "sce.recherche.cooperation@encgt.uae.ac.ma",
+        "category": "invalid",
+        "reason": "Domain has no mail servers",
+        "provider": "unknown",
+        "details": {
+            "method": "login",
+            "verification_time": 0.03803658485412598
+        }
+    },
+    "encgtanger@encgt.ma": {
+        "email": "encgtanger@encgt.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx.encgt.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.22034525871277
+        }
+    },
+    "support@afafstore.ma": {
+        "email": "support@afafstore.ma",
+        "category": "invalid",
+        "reason": "Email verification failed: All MX servers rejected connection or verification",
+        "provider": "Custom",
+        "details": {
+            "smtp_result": {
+                "is_deliverable": false,
+                "smtp_check": false,
+                "reason": "All MX servers rejected connection or verification",
+                "mx_used": null
+            },
+            "mx_records": [
+                "mx.afafstore.ma.hostedemail.ma"
+            ],
+            "method": "login",
+            "verification_time": 20.116813898086548
+        }
+    },
+    "agence.marrakech@hertz.ma": {
+        "email": "agence.marrakech@hertz.ma",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 30.11086368560791
+        }
+    },
+    "agence.ourzazate@hertz.ma": {
+        "email": "agence.ourzazate@hertz.ma",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 20.009231090545654
+        }
+    },
+    "agence.casacity@hertz.ma": {
+        "email": "agence.casacity@hertz.ma",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 19.764639616012573
+        }
+    },
+    "recrutement.hertz-maroc@gbh.fr": {
+        "email": "recrutement.hertz-maroc@gbh.fr",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 29.638744592666626
+        }
+    },
+    "nreservation@hertz.ma": {
+        "email": "nreservation@hertz.ma",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 20.624279737472534
+        }
+    },
+    "agence.oujda@hertz.ma": {
+        "email": "agence.oujda@hertz.ma",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 18.85023331642151
+        }
+    },
+    "agence.agadir@gbh.fr": {
+        "email": "agence.agadir@gbh.fr",
+        "category": "valid",
+        "reason": "Email accepted (no rejection or error)",
+        "provider": "outlook.com",
+        "details": {
+            "current_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=91a4ca34-664d-4f85-b023-b815182d057e&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3OR4KCMAAAwL945QBoKB48gAhGTUKVcpOyUgIIIlnz-t15wWxOkdgndzKKgzSP0sPvj6ylebkaJnlzK-s0zslzEDxJW0UhHvEoa8gondYS2LTTFj8N67QGK0Xnl7SoUWRXezriNbboRIRAH11HDqhyTBouvKsZMdgD_EwXpH2sZhExKJfvafuKxXbvtGmo4JABCBsFdIXfz1A5ReoS5TaufobXzFD27PSPwvn1JjnTMNvUIxAhZIvJMrxonWBPzz_q-cwoGpZMT_dt0HJwoQjGbICKmRvY9fjN_a9X83yN15D0QONFuUsucuoQrfbvd--XVEViWqUbRJXAOukcyRNmjUoyrhYWNEAvdQbMsp2XArl4F9vEzh95s3fGb2Q-Hs2VHQ6bP6JJZGZaAQAA&msaoauth2=true&lc=1036&sso_reload=true",
+            "browser": "chrome",
+            "method": "login",
+            "verification_time": 20.063693046569824
+        }
+    }
+}
