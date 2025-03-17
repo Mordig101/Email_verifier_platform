@@ -198,5 +198,49 @@
             "timestamp": "2025-03-16 21:23:59",
             "event": "Microsoft verification: Valid email - no rejection or error"
         }
+    ],
+    "malika.ammar101@gmail.com": [
+        {
+            "timestamp": "2025-03-17 03:09:25",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-17 03:09:25",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-17 03:09:25",
+            "event": "Following Gmail verification order: SMTP -> Selenium"
+        },
+        {
+            "timestamp": "2025-03-17 03:09:25",
+            "event": "SMTP verification started"
+        },
+        {
+            "timestamp": "2025-03-17 03:09:29",
+            "event": "SMTP verification result: VALID (Email verified via SMTP)"
+        }
+    ],
+    "benaaros.oussama@etu.uae.ac.ma": [
+        {
+            "timestamp": "2025-03-17 12:44:53",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-17 12:44:54",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-17 12:44:54",
+            "event": "Following customGoogle verification order: Selenium -> SMTP"
+        },
+        {
+            "timestamp": "2025-03-17 12:44:54",
+            "event": "Login verification started using chrome"
+        },
+        {
+            "timestamp": "2025-03-17 12:45:20",
+            "event": "Google verification: Valid - Email address exists (URL indicates password challenge (valid email))"
+        }
     ]
 }

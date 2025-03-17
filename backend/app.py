@@ -33,7 +33,7 @@ app = Flask(__name__)
 
 # Configure CORS properly to handle all routes and methods
 CORS(app, 
-     resources={r"/*": {"origins": ["http://localhost:3000", "http://localhost:3002", "http://192.168.1.235:3000"]}},
+     resources={r"/*": {"origins": ["http://localhost:3000","http://localhost:3001" ,"http://localhost:3002", "http://192.168.1.235:3000"]}},
      supports_credentials=True,
      methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
      allow_headers=["Content-Type", "Authorization", "X-Requested-With"])

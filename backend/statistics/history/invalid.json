@@ -800,5 +800,37 @@
             "timestamp": "2025-03-16 20:49:14",
             "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
         }
+    ],
+    "malika.am,hjvhjkjmar101@gmail.com": [
+        {
+            "timestamp": "2025-03-17 03:10:05",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-17 03:10:05",
+            "event": "Invalid email format"
+        }
+    ],
+    "abdo.abiidozfzff@gmail.com": [
+        {
+            "timestamp": "2025-03-17 12:46:01",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-17 12:46:01",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-17 12:46:01",
+            "event": "Following Gmail verification order: SMTP -> Selenium"
+        },
+        {
+            "timestamp": "2025-03-17 12:46:01",
+            "event": "SMTP verification started"
+        },
+        {
+            "timestamp": "2025-03-17 12:47:42",
+            "event": "SMTP verification result: INVALID (All MX servers rejected connection or verification)"
+        }
     ]
 }
